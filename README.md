@@ -1,4 +1,4 @@
-# goit-algo-hw-07
+# GoITNeo Algo HW-7
 
 ## Task 1
 Write an algorithm (function) that finds the maximum value in a binary search tree or an AVL tree. Take any implementation of the tree from your notes or another source.
